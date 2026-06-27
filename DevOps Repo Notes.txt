@@ -1,2 +1,4 @@
 Hello DevOps
 Test
+
+This file has been modified in second stage.
